@@ -6,8 +6,8 @@
     background-color: var(--cor-fundo);
     color: var(--cor-lista);
     display: flex;
-    justify-content: first baseline;
+    justify-content:first baseline
 }
 .imagem-cabecalho{
-    width: 100px;
+    width: 200px;
 }

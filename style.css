@@ -1,10 +1,10 @@
 :root{ 
-   cor-fundo:#C14EE9;
-   cor-lista:#EFE3E3;
+   --cor-fundo:#C14EE9;
+   --cor-lista:#EFE3E3;
 }
 .cabecalho{
-    background-color: var(cor-fundo);
-    color: var(cor-lista);
+    background-color: var(--cor-fundo);
+    color: var(--cor-lista);
     display: flex;
     justify-content: first baseline;
 }

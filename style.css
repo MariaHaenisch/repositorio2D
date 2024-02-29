@@ -6,8 +6,7 @@
     background-color: var(--cor-fundo);
     color: var(--cor-lista);
     display: flex;
-    justify-content: space-around
-    padding: 24px;
+    justify-content: space-around;
 }
 .imagem-cabecalho{
     width: 200px;

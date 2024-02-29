@@ -12,7 +12,7 @@
 }
 .imagem-cabecalho{
     width: 200px;
-    align-items: first baseline;
+    align-items: last baseline
 }
 .item-lista-cabecalho{
     display:inline-block;

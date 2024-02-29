@@ -5,5 +5,9 @@
 .cabecalho{
     background-color: var(#C14EE9);
     color: var(#EFE3E3);
+    display: flex;
+    justify-content: first baseline;
 }
-
+.imagem-cabecalho{
+    width: 100px;
+}

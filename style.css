@@ -12,6 +12,7 @@
 }
 .imagem-cabecalho{
     width: 200px;
+    align-items: flex-start;
 }
 .item-lista-cabecalho{
     display:inline-block;

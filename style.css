@@ -3,8 +3,8 @@
    cor-lista:#EFE3E3;
 }
 .cabecalho{
-    background-color: var(#C14EE9);
-    color: var(#EFE3E3);
+    background-color: var(cor-fundo);
+    color: var(cor-lista);
     display: flex;
     justify-content: first baseline;
 }

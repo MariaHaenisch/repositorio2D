@@ -24,3 +24,11 @@
     font-size:x-large;
 
 }
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#C14EE9, #EFE3E3);
+    color: var(--cor-fontes);
+    display: flex;
+}

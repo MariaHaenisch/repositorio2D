@@ -56,3 +56,12 @@ width: 50%;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
+.rodape{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.img-rodape {
+width: 12%;
+margin: 1%;
+}
